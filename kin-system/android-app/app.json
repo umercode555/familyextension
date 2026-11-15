@@ -1,3 +1,0 @@
-{"expo":{"name":"Kin","slug":"kin","version":"1.0.0","orientation":"portrait","icon":"./assets/icon.png","userInterfaceStyle":"automatic","newArchEnabled":false,
-"android":{"package":"com.umer.kin","versionCode":1,"adaptiveIcon":{"foregroundImage":"./assets/icon.png","backgroundColor":"#00a884"},"permissions":["RECORD_AUDIO","INTERNET"]},
-"plugins":[["expo-av",{"microphonePermission":"Kin records your voice notes."}]]}}
